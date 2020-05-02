@@ -1,0 +1,14 @@
+[user]
+	email = rupak@patroness.com
+	name = Rupak Dasgupta
+[color]
+	ui = always
+[pull]
+	rebase = true
+[alias]
+	st = status
+	co = checkout
+	ci = commit
+	l = log
+	br = branch
+	rb = rebase
